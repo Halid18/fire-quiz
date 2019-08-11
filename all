@@ -1,0 +1,29 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'githubRepo/master'.
+#
+# Changes to be committed:
+#	modified:   public/index.html
+#	modified:   src/App.vue
+#	new file:   src/auth.js
+#	new file:   src/components/Toolbar.vue
+#	new file:   src/components/quiz/QuizActions.vue
+#	new file:   src/components/quiz/QuizAnswers.vue
+#	new file:   src/components/quiz/QuizCard.vue
+#	new file:   src/components/quiz/QuizInformation.vue
+#	new file:   src/components/quiz/QuizQuestions.vue
+#	modified:   src/main.js
+#	new file:   src/pages/Create.vue
+#	new file:   src/pages/Home.vue
+#	new file:   src/pages/Quiz.vue
+#	deleted:    src/router.js
+#	new file:   src/router/router.js
+#	modified:   src/store.js
+#	modified:   src/store/quiz/index.js
+#	new file:   src/store/quiz/mutations.js
+#	modified:   src/store/user/index.js
+#	new file:   src/store/user/mutations.js
+#
